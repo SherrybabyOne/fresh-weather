@@ -1,5 +1,8 @@
 {
-  "pages": ["pages/weather/index", "pages/diary/index"],
+  "pages": [
+    "pages/weather/index",
+    "pages/diary/index"
+  ],
   "window": {
     "navigationStyle": "custom"
   },
